@@ -8,5 +8,9 @@ class App < Sinatra::Base
       erb :form
     end
 
+    post "/teams" do 
+      erb :team
+    end
+
 
 end
