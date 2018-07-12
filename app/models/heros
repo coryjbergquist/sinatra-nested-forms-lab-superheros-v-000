@@ -6,5 +6,5 @@ heroes have bio
 team {
 [team_name] = name,
 [team_motto] = motto,
-[heroes] = [{powers=> }, {bio=> }]
+[heroes] = [{name=> }, {powers=> }, {bio=> }]
 }
