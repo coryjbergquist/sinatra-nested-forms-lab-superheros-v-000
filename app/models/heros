@@ -3,4 +3,6 @@ team has a motto
 heroes have powers
 heroes have bio
 
-[team][motto][heros]
+team {
+[team_motto] = motto, [heroes] = [{powers}, {bio}]
+}
