@@ -1,4 +1,6 @@
 team has many members
 team has a motto
-members have powers
-members have bio
+heroes have powers
+heroes have bio
+
+[team][motto][heros]
